@@ -1,5 +1,5 @@
 ### Hi 👋
-📚 Computer Engineeering student at the University of Pisa
+📚 Computer Engineering student at the University of Pisa
 
 <p align="left">
 </p>
