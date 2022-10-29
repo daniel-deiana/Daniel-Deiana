@@ -1,4 +1,5 @@
-<h4>I'm studying Computer Engineering @ University of Pisa</h4>
+### Hi 👋
+📚 Computer Engineeering student at the University of Pisa
 
 <p align="left">
 </p>
