@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">I'm studying Computer Engineering @ University of Pisa</h3>
+<h4>I'm studying Computer Engineering @ University of Pisa</h4>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
