@@ -1,5 +1,6 @@
 ### Hi 👋
 📚 Computer Engineering student at the University of Pisa
+👀 I'm passionate about low level computer stuff, and also aviation 
 
 <p align="left">
 </p>
