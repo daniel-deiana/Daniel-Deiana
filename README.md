@@ -1,5 +1,6 @@
 ## Hola 👋
 - 🧑🏻‍🎓 Computer Engineering Bsc graduate
+- Msc in Computer Engineering Cyber physical systems branch
 - 👀 I'm passionate about low level computer stuff, and also aviation 
 
 <p align="left">
