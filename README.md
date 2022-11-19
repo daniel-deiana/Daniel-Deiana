@@ -1,5 +1,5 @@
 ## Hola 👋
-- 📚 Computer Engineering student at the University of Pisa
+- 🧑🏻‍🎓 Computer Engineering Bsc graduate
 - 👀 I'm passionate about low level computer stuff, and also aviation 
 
 <p align="left">
