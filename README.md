@@ -1,6 +1,6 @@
 ## Hola 👋
-- 🧑🏻‍🎓 Computer Engineering Bsc graduate
-- Msc in Computer Engineering Cyber physical systems branch
+- 🧑🏻‍🎓 Computer Engineering Bsc graduate @ Unipi 
+- 👨🏻‍💻 Msc in Computer Engineering @ Unipi
 - 👀 I'm passionate about low level computer stuff, and also aviation 
 
 <p align="left">
