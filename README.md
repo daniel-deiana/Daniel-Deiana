@@ -1,7 +1,7 @@
 ## Hola 👋
-- 🧑🏻‍🎓 Computer Engineering Bsc graduate @ Unipi 
-- 👨🏻‍💻 Msc in Computer Engineering @ Unipi
-- 👀 I'm passionate about low level computer stuff, and also aviation 
+- 🧑🏻‍🎓 Computer Engineering Bsc graduate @Unipi. 
+- 👨🏻‍💻 Msc in Computer Engineering Cyber Physical Systems @ Unipi.
+- 👀 Passionate about low level computer stuff, and also aviation.
 
 <p align="left">
 </p>
